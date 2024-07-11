@@ -33,7 +33,7 @@ ul {
 .contact-link:hover, .contact-link:focus {
     color: #404BBF;
 }
-.logo-web {
+.nav-logo-web {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
@@ -42,7 +42,7 @@ ul {
         text-transform: uppercase;
         color: #4d5ae5;
 }
-.logo-studio {
+.nav-logo-studio {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
@@ -120,5 +120,23 @@ ul {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
+.footer-logo-web {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+.footer-logo-studio {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
         color: #f4f4fd;
 }
