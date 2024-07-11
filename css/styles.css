@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     color: #434455;
     background-color: #fff;
 }
@@ -12,7 +12,6 @@ ul {
     padding: 0;
 }
 .nav-link  {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -23,8 +22,6 @@ ul {
     color: #404BBF;
 }
 .contact-link {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -52,7 +49,6 @@ ul {
         color: #2e2f42;
 }
 .header {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
         font-size: 56px;
         line-height: 1.07143;
@@ -61,18 +57,18 @@ ul {
         color: #fff;
 }
 .button {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        cursor: pointer;
 }
 .button:hover, .button:focus {
  background-color: #404BBF;
+
 }
 .section-title {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11111;
@@ -81,7 +77,6 @@ ul {
         color: #2e2f42;
 }
 .feature-title, .portfolio-title {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -89,7 +84,6 @@ ul {
         color: #2e2f42;
 }
 .feature-description, .portfolio-category {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -97,7 +91,6 @@ ul {
         color: #434455;
 }
 .team-member-name {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -106,8 +99,6 @@ ul {
         color: #2e2f42;
 }
 .team-member-role {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -115,8 +106,6 @@ ul {
         color: #434455;
 }
 .footer-text{
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
