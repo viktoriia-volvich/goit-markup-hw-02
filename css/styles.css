@@ -1,16 +1,9 @@
 body {
-    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #fff;
+    background-color: #FFFFFF;
 }
-a {
-    text-decoration: none;
-    color: inherit;
-}
-ul {
-    list-style-type: none;
-    padding: 0;
-}
+
 .nav-link  {
     font-weight: 500;
         font-size: 16px;
@@ -34,7 +27,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -71,7 +64,7 @@ ul {
 .section-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
