@@ -14,7 +14,7 @@ body {
     color: #4d5ae5;
 }
 
-.logo-part {
+.logo-part-header {
     color: #2e2f42;
 }
 
@@ -144,7 +144,7 @@ body {
     color: #4d5ae5;
 }
 
-.logo-part {
+.logo-part-footer {
     color: #f4f4fd;
 }
 .footer-text {
